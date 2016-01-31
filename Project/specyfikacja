@@ -3,8 +3,8 @@ Triangulacja punktów
 Specyfikacja wstępna
 
 1. Opis ogólny
-Triangulacja to technika polegająca połączeniu punktów na płaszczyźnie w trójkąty. Wykorzystany
-ku temu zostanie algorytm triangulacji Delaunay.
+Triangulacja to technika polegająca połączeniu punktów na płaszczyźnie w trójkąty.
+
 2. Możliwości programu
 Jako dane wejściowe program przyjmie zbiór P zawierający n punktów na płaszczyźnie. Jako wynik
 otrzymana zostanie triangulacja Delaunay zbioru P. Wynik zostanie zaprezentowany graficznie.
